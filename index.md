@@ -36,11 +36,13 @@ Well, do I have [the website for you][another fun place]!
 
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com  
+
 ---
 
 #### **Images**
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)  
+
 ---
 
 ![Black cat][Black]
@@ -50,6 +52,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 [Orange]: https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png  
+
 ---
 
 #### **Blockquotes**
