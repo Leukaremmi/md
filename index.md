@@ -1,4 +1,4 @@
- ## Eetu Pellikka web-tehtävä
+## Eetu Pellikka web-tehtävä
 
 #### **Italics and Bold**
 Writing in Markdown is *not* that hard!
