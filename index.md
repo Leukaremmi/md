@@ -139,5 +139,3 @@ To doubt they were kneeling then.
  ---
 
  
-
-
